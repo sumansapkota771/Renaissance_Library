@@ -37,7 +37,7 @@ export const metadata: Metadata = {
     index: true,
     follow: true,
   },
-    generator: 'v0.app'
+    generator: 'Kodedristi'
 }
 
 export default function RootLayout({
